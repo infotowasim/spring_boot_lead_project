@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\SPRING BOOT-STS-COURSES\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2199678111.index
+\marketingapp\src\main\java
+C:\SPRING BOOT-STS-COURSES\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2698343237.index
+\marketingapp1\src\main\java
